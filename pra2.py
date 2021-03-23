@@ -1,2 +1,4 @@
 a = "Hello World"
-print(a)
+
+for i in rang(100):
+    print(a)
